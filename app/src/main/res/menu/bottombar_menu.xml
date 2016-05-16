@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottomBarItemFeed"
+        android:icon="@drawable/feed"
+        android:title="Feed" />
+    <item
+        android:id="@+id/bottomBarItemAsk"
+        android:icon="@drawable/ask"
+        android:title="Ask" />
+    <item
+        android:id="@+id/bottomBarItemSettings"
+        android:icon="@drawable/settings"
+        android:title="Setting" />
+    <item
+        android:id="@+id/bottomBarItemNotification"
+        android:icon="@drawable/notification"
+        android:title="Alert" />
+</menu>
